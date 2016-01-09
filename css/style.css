@@ -1,0 +1,50 @@
+body {
+    background-color: #2C5D63;
+    color: cadetblue;
+    font-family: 'Fauna One', serif;
+}
+
+.page-title {
+    text-align: center;
+    padding-top: 50px;
+}
+.page-title h1{
+    font-size: 80px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    margin-top: 70px;
+    margin-left: 200px;
+    width: 900px;
+    height: 400px;
+}
+
+.quote-content {
+    background-color: white;
+    text-align: center;
+    border: white;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: inset 0px -6px 15px rgba(0, 0, 0, 0.05), 0px 2px 0px rgba(0, 0, 0, 0.1), 0px 3px 10px rgba(0, 0, 0, 0.2)
+}
+
+.quote-content p {
+    padding: 50px 20px;
+    font-size: 24px;
+    font-stretch: expanded;
+}
+
+.cite {
+    padding: 20px 20px 20px 20px;
+    font-style: italic;
+}
+
+.new-quote-btn {
+    padding: 20px 20px 20px 20px;
+}
+
+.twitter-btn {
+    padding: 20px 20px 20px 20px;
+}
+

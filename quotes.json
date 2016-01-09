@@ -1,0 +1,60 @@
+{
+  "quotes": [
+
+    {
+    "id": 1,
+    "author": "David Allen",
+    "quote": "You can do anything, but not everything..",
+    },
+
+    {
+    "id": 2,
+    "author": "Antoine de Saint-Exupéry",
+    "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+
+    },
+
+    {
+      "id": 3,
+      "author": "Unknown Author",
+      "quote": "The richest man is not he who has the most, but he who needs the least..",
+
+    },
+
+   {
+    "id": 4,
+    "author": "Wayne Gretzky",
+    "quote": "You miss 100 percent of the shots you never take.",
+
+    },
+
+    {
+    "id": 5,
+    "author": "Ambrose Redmoon",
+    "quote": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+
+    },
+
+    {
+    "id": 6,
+    "author": "Gandhi",
+    "quote": "You must be the change you wish to see in the world..",
+
+    },
+
+    {
+    "id": 7,
+    "author": "Lin-Chi",
+    "quote": "When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but wise men will know what I mean.",
+
+    },
+
+    {
+    "id": 8,
+    "author": "A. A. Milne",
+    "quote": "The third-rate mind is only happy when it is thinking with the majority. The second-rate mind is only happy when it is thinking with the minority. The first-rate mind is only happy when it is thinking.",
+
+    }
+
+  ]
+}
